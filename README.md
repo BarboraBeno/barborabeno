@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Barbora Beno</h1>
 <h3 align="center">A passionate ServiceNow developer & developer</h3>
-<img align="right" alt="Coding" width="400" src="https://w0.peakpx.com/wallpaper/251/234/HD-wallpaper-anime-vocaloid-ia-vocaloid.jpg">
+<img align="right" alt="Coding" width="250" src="https://3.bp.blogspot.com/-RvoeTkhiWPU/TdKhRyJX0II/AAAAAAAALHQ/rtZBMMXNerU/s1600/User-Error.jpg">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
